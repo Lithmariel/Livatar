@@ -1,0 +1,1 @@
+General objects and environment assets.
